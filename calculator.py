@@ -7,3 +7,6 @@ add_fn(a, b)
 
 # This line is going to subtract 2 numbers
 sub_fn(a,b)
+
+# This line is going to multiply 2 numbers
+mul_fn(a,b)
