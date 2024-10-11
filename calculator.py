@@ -7,3 +7,6 @@ add_fn(a, b)
 
 # This line is going to subtract 2 numbers
 sub_fn(a,b)
+
+# This line is going to divide 2 numbers
+div_fn(a, b)
